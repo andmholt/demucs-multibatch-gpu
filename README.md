@@ -1,4 +1,7 @@
 # Demucs Music Source Separation (sake Edit)
+
+Forked from sakemin/demucs_batch-multigpu. Faster batch separation with concurrency.
+
 ## Batch Separation / Multi GPU(DataParallel) / MultiProcessing(DataLoader) added by sakemin
 
 ### How to use on terminal
